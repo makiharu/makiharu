@@ -2,7 +2,7 @@
 
 # Hi, I'm kushun 👋
 
-プロダクトエンジニアとして、主にデスクトップアプリケーション開発に携わっています。WebアプリケーションやUI/UXにも関心があり、ユーザーに届くプロダクトづくりに取り組んでいます。最近はAWSインフラの整備やセキュリティ改善にも携わっています。
+プロダクトエンジニアとして、主にデスクトップアプリケーション開発に携わっています。WebアプリケーションやUI/UXにも関心があり、ユーザーに届くプロダクトづくりに取り組んでいます。最近はAWSインフラの整備やセキュリティ改善にも携わっています。猫が好きで、家にキジトラの子がいます。
 
 [![GitHub](https://img.shields.io/badge/GitHub-makiharu-181717?style=flat-square&logo=github)](https://github.com/makiharu)
 [![Blog](https://img.shields.io/badge/Blog-kushun's%20Blog-2f80ed?style=flat-square&logo=hugo&logoColor=white)](https://makiharu.github.io/persona-blog/)
@@ -12,20 +12,25 @@
 
 ## About me
 
-- Web開発とクラウド技術を中心に取り組んでいます
-- フロントエンド、UI/UX、テスト、開発者ツールに興味があります
-- Windows / macOS両方の環境で開発できます
-- 小さな実験やOSSへのコントリビュートを楽しんでいます
+- Web開発(フロントエンド)中心に仕事をしています。
+- 最近はAIを利用して便利な仕組み作りをを模索中。
+- UI/UXにも興味があります。
+- Windows / macOS両方の環境で開発
 - 技術記事のほか、手品・読書・日々の気づきをブログに書いています
 
 ## What I'm working on
 
 - React / Next.js / Vue.jsを使ったWebアプリケーション開発
-- Hugoを使ったブログ・コンテンツサイトの構築
 - AWSインフラの整備とセキュリティ改善
-- MCPなど、AIと開発ツールを組み合わせた開発体験
+- AIを利用してプロダクト価値を上げれるように色々と整備中
 - ChromiumやC# / Windowsと連携するデスクトップアプリケーション開発にも関わっています
+- Hugoを使ったブログ・コンテンツサイトの構築
 - 学んだことを再利用できる形で整理すること
+
+## AI tools
+
+- 業務では Claude Code / GitHub Copilot / Microsoft Copilot を活用しています
+- チームでも活用できるスキルの整備や、AIを活用した開発フローを日々試しています
 
 ## Tech stack
 
@@ -73,3 +78,4 @@
 ## Outside of code
 
 🪄 手品　📚 読書　✍️ ブログを書くこと
+
