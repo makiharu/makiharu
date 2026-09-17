@@ -2,7 +2,7 @@
 
 # Hi, I'm kushun 👋
 
-プロダクトエンジニアとして、主にデスクトップアプリケーション開発に携わっています。WebアプリケーションやUI/UXにも関心があり、ユーザーに届くプロダクトづくりに取り組んでいます。最近はAWSインフラの整備やセキュリティ改善にも携わっています。猫が好きで、家にキジトラの子がいます。
+プロダクトエンジニアとして、SaaSプロダクトの開発に携わっています。主にReact / Next.jsを用いたWebアプリケーションや、Chromiumベースのデスクトップアプリケーションの開発を担当しています。UI/UXにも関心があり、ユーザーに届くプロダクトづくりに取り組んでいます。最近はAWSインフラの整備やセキュリティ改善にも携わっています。猫が好きで、家にキジトラの子がいます。
 
 [![GitHub](https://img.shields.io/badge/GitHub-makiharu-181717?style=flat-square&logo=github)](https://github.com/makiharu)
 [![Blog](https://img.shields.io/badge/Blog-kushun's%20Blog-2f80ed?style=flat-square&logo=hugo&logoColor=white)](https://makiharu.github.io/persona-blog/)
